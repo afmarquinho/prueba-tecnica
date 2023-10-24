@@ -8,6 +8,7 @@ import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "https://afmarquihno.github.io/prueb-tecnica",
   plugins: [
     vue(),
     AutoImport({
