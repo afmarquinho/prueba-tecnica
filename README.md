@@ -4,7 +4,7 @@ Prueba técnica de seleccion
 
 Vite, Vue, Axios, Pinia, Qrcode.vue, Vue-router, Element-plus y Tailwindcss.
 
-## Customize configuration
+## DEPLOYMENT
 vercel: https://prueba-tecnica-neon.vercel.app/
 netlify: https://golden-gelato-bb729b.netlify.app/
 
